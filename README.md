@@ -129,9 +129,9 @@ an engineer specializing in electrical engineering and computers, a full-stack d
 <br/>  
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abram-Emad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Abram-Emad&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 45%;" /></div>
+<div align="center" style="display: flex; justify-content: space-between; align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abram-Emad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 45%; " />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abram-Emad&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 45%;" /></div>
 
 ## 🔝 Top Contributed Repo
 <div align="center">
